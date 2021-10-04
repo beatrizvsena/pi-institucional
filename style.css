@@ -220,3 +220,54 @@ color: white;
 padding: 10px;
 
 }
+
+.cadastro {
+
+background-color: #e9e6e6;
+width: 30% ;
+height: 450px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-around;
+    
+}
+
+.banner .cadastro h2 {
+
+color: black;
+    
+}
+    
+.banner .cadastro div {
+    
+display: flex;
+flex-direction: column;    
+    
+}
+    
+.banner .cadastro div span {
+    
+color: black;
+    
+}
+    
+.banner .cadastro div input {
+    
+border: 2px solid black;
+border-radius: 10px;
+padding: 10px;
+    
+}
+    
+.banner .cadastro button {
+    
+background-color: black;
+border: none;
+border-radius: 10px;
+color: white;
+padding: 10px;
+    
+}
+
+
